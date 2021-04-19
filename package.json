@@ -1,0 +1,24 @@
+{
+  "name": "notifyme-bot",
+  "version": "1.0.0",
+  "description": "Discord-Bot for notification of users about predefined events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raisierer/NotifyMe-Bot.git"
+  },
+  "author": "Adrian Raiser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raisierer/NotifyMe-Bot/issues"
+  },
+  "homepage": "https://github.com/Raisierer/NotifyMe-Bot#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.6"
+  }
+}
